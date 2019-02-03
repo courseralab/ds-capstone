@@ -12,3 +12,7 @@ The goal of this notebook is to provide data driven venue in Jakarta, Indonesia.
 ### Jakarta map
 
 ![map](dataset/jakarta_neighborhood01.png)
+
+### Top Venue in Jakarta
+
+![map](dataset/topvenueratingbar.png
