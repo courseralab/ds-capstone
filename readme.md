@@ -8,3 +8,7 @@ The goal of this notebook is to provide data driven venue in Jakarta, Indonesia.
 - Processing and visualization
 - Segmentation and Clustering
 - Conclusion
+
+### Jakarta map
+
+![map](dataset/jakarta_neighborhood01.png)
