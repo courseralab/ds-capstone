@@ -19,4 +19,4 @@ The goal of this notebook is to provide data driven venue in Jakarta, Indonesia.
 
 ### Jakarta Food Cluster
 
-![map](dataset/jakarta cluster.png)
+![map](dataset/jakartacluster.png)
